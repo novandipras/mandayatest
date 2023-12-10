@@ -4,7 +4,6 @@ import 'package:flutter_svg/svg.dart';
 import 'package:mandayatest/core_module/gen/assets.gen.dart';
 import 'package:mandayatest/core_module/injection.dart';
 import 'package:mandayatest/core_module/keep_alive_widget.dart';
-import 'package:mandayatest/home_module/data/model/search_form_model.dart';
 import 'package:mandayatest/home_module/presentation/bloc/bottom_navbar_bloc/bottom_navbar_bloc.dart';
 import 'package:mandayatest/home_module/presentation/pages/explore_screen.dart';
 import 'package:mandayatest/home_module/presentation/pages/null_page.dart';
